@@ -3,9 +3,9 @@ jsk-data-aries-scripts
 ======================
 
 
-`drive`
-=======
-The `drive` binary in this repository was downloaded from
+``drive``
+=========
+The ``drive`` binary in this repository was downloaded from
 `prasmussen/gdrive <https://github.com/prasmussen/gdrive>`_.
 
 * version: 1.9.0
