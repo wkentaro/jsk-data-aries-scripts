@@ -20,4 +20,4 @@ Firstly, set gdrive access token::
 
 After that, you can run drive commands like::
 
-   $ ./drive-configured.sh upload --file {{ filename }} --parent {{ parent_id }}
+   $ ./drive --config .gdrive upload --file {{ filename }} --parent {{ parent_id }}
